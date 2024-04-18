@@ -1,0 +1,24 @@
+body{
+    background-color: #1C6342;
+}
+
+h1 {
+    color: white;
+    font-family: Mark Pro Heavy;
+  }
+  
+.home {
+    background-color: #247F7C;
+    border-radius: 20px;
+    text-align: center;
+    color: white;
+  }
+  .wText{
+    color: white;
+    font-family: Mark Pro;
+  }
+
+a{
+    font-family: Mark Pro Medium;
+    color: #FFFB94;
+}
