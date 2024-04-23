@@ -16,9 +16,28 @@ h1 {
   .wText{
     color: white;
     font-family: Mark Pro;
+    margin: 25px 25px 25px 25px;
+  }
+
+  .subtitle{
+    color: white;
+    font-family: Mark Pro;
+    margin: 25px;
+    font-size: 50px;
   }
 
 a{
     font-family: Mark Pro Medium;
     color: #FFFB94;
+}
+
+.paragrpagh{
+  background-color: black;
+  border-radius: 6px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-justify: auto;
+  align-content: center;
+
 }
